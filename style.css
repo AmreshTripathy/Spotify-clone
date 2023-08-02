@@ -308,13 +308,21 @@
 }
 
 .dream-on {
-    font-size: 18px;
     color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.9px;
 }
 
 .NEFFEX {
-    font-size: 15px;
     color: #B3B3B3;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.75px;
 }
 
 
