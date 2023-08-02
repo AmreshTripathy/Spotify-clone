@@ -5,7 +5,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'DM Sans', sans-serif;
-
 }
 
 *::-webkit-scrollbar {
@@ -310,12 +309,12 @@
 
 .songName>div>h2 {
     font-size: 18px;
-    color: whitesmoke;
+    color: #FFF;
 }
 
 .songName>div>p {
     font-size: 15px;
-    color: whitesmoke;
+    color: #B3B3B3;
 }
 
 
@@ -447,6 +446,7 @@ a:hover {
     height: 90vh;
     display: flex;
     background-color: #000000;
+    font-family: 'Flow Circular', sans-serif;
 }
 
 .left-nav-playlist {
@@ -519,7 +519,6 @@ a:hover {
 
 .header-texts {
     color: #FFF;
-    font-family: Circular Std;
     font-style: normal;
     display: flex;
     flex-direction: column;
@@ -680,7 +679,6 @@ a:hover {
     flex-shrink: 0;
     color: #FFF;
     text-align: center;
-    font-family: Circular Std;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -702,7 +700,6 @@ a:hover {
 
 .song-name {
     color: #FFF;
-    font-family: Circular Std;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -711,7 +708,6 @@ a:hover {
 
 .song-singer {
     color: #FFF;
-    font-family: Circular Std;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -721,7 +717,6 @@ a:hover {
 
 .album-name {
     color: #FFF;
-    font-family: Circular Std;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -730,7 +725,6 @@ a:hover {
 
 .date-added {
     color: #FFF;
-    font-family: Circular Std;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -751,7 +745,6 @@ a:hover {
     margin-left: 20px;
     ;
     color: #FFF;
-    font-family: Circular Std;
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
@@ -778,7 +771,6 @@ a:hover {
 .hold-on {
     color: #FFF;
     text-align: left;
-    font-family: Circular Std;
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
@@ -787,7 +779,6 @@ a:hover {
 
 .justin {
     color: #FFF;
-    font-family: Circular Std;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -806,7 +797,6 @@ a:hover {
 .bar p {
     color: #B3B3B3;
     text-align: center;
-    font-family: Circular Std;
     font-size: 12.504px;
     font-style: normal;
     font-weight: 400;
