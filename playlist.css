@@ -322,7 +322,18 @@ a {
   width: 40px;
 }
 
-
+.bottomHash {
+  margin-top: -25px;
+  display: flex;
+  justify-content: space-between;
+  color: #FFF;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.32px;
+  opacity: 0.7;
+}
 
 
 .title-album-date {
@@ -342,23 +353,8 @@ a {
   justify-content: space-between;
 }
 
-.heads-text {
-  color: #FFF;
-  font-size: 0.75rem;
-  font-weight: 400;
-  line-height: normal;
-  letter-spacing: 0.0825rem;
-  opacity: 0.699999988079071;
-}
-
 .heads-text-album {
   margin-left: 10%;
-  color: #FFF;
-  font-size: 0.75rem;
-  font-weight: 400;
-  line-height: normal;
-  letter-spacing: 0.0825rem;
-  opacity: 0.699999988079071;
 }
 
 .album-name {
